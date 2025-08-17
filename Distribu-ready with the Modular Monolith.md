@@ -44,7 +44,7 @@ A **Modular Monolith** is a single executable where internal domain boundaries a
 #### Step 2: Encapsulate Each Module
 
 - Each module should contain everything related to its purpose: APIs, logic, and data access layers.
-- In .NET, modules can map to assemblies or projects (class libraries), but the same applies to Java modules/packages.
+- Modules can map to assemblies or projects (class libraries), the same applies to Java modules/packages.
 
 
 #### Step 3: Handle the Database
