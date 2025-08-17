@@ -167,9 +167,6 @@ public class OrdersModule implements OrdersContract {
 <img width="4862" height="1137" alt="Modular Monolith_4" src="https://github.com/user-attachments/assets/c84d35fc-84f4-48c6-8891-b4c3b9ff500f" />
 
 
-<img width="4862" height="1137" alt="Modular Monolith_5" src="https://github.com/user-attachments/assets/77b20080-4bcc-4afd-99e8-d34696e9e5b7" />
-
-
 <img width="5339" height="1137" alt="Modular Monolith_6" src="https://github.com/user-attachments/assets/b49ebbe2-cd14-4147-a1b3-2deef2c9b3a0" />
 
 
