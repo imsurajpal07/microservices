@@ -186,7 +186,7 @@ public class OrdersModule implements OrdersContract {
 
 ## Conclusion: The Modular Monolith as Your Future-Proof Foundation
 
-The modular monolith is a battle-tested architectural approach that sets you up for growth, balances simplicity and extensibility, and allows you to “go distributed” only when truly required. If you’re building with Java or .NET, focus on well-defined contracts, keep your module boundaries strict, and avoid premature microservices migrations.
+The modular monolith is a battle-tested architectural approach that sets you up for growth, balances simplicity and extensibility, and allows you to “go distributed” only when truly required. If you’re building with Java focus on well-defined contracts, keep your module boundaries strict, and avoid premature microservices migrations.
 
 Move incrementally, automate your architectural rules, and use messaging where appropriate to minimize future friction. **The modular monolith is “distribu-ready”—grow your software right!**
 
@@ -194,7 +194,7 @@ Move incrementally, automate your architectural rules, and use messaging where a
 
 ### References
 
-This post summarizes and restructures ideas and recommendations presented by Layla Porter at NDC Oslo 2024. For further exploration, see her talks, slides, and associated blog posts or check out the full video for advanced diagrams and coding demos.
+This post contains my observations and restructures ideas and recommendations presented by Layla Porter at NDC Oslo 2024. For further exploration, see her talks, slides, and associated blog posts or check out the full video for advanced diagrams and coding demos.
 
 <div style="text-align: center">https://www.youtube.com/watch?v=L3r1k8_Bi1M&t=2179s</div>
 
